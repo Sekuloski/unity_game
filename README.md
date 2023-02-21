@@ -1,1 +1,1 @@
-# unity_game
+# Cut It - Mobile Unity Game with a Django back-end
